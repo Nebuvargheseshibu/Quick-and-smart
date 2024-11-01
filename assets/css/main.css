@@ -934,6 +934,7 @@ section,
   border-radius: 18px;
   border-bottom: 5px solid var(--surface-color);
   height: 100%;
+  padding-bottom: 30px;
 }
 
 .services .service-item .icon {
@@ -1932,4 +1933,12 @@ section,
     color: black;
     /* Other light mode styles */
   }
+}
+
+#why_para{
+  padding-top: 20px;
+}
+
+#why_img{
+  padding-bottom: 40px;
 }
